@@ -1,2 +1,2 @@
 # login-register-authentication
-This is Node.js application for Login and register page with authentication
+Trial Node.js application which using passport.js to authenticate. 
